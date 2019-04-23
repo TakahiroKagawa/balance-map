@@ -13,5 +13,3 @@ Please download and extract zip file and run the following matlab functions.
 *TwoLinkModel_sim.m* performs computer simulations of a swing movement with and without disturbance.
 
 *TwoLinkModel_comp.m* performs computer simulations of a linear and a nonlinear compass gait model.
-
-# License
