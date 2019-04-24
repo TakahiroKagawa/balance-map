@@ -1,7 +1,9 @@
 # Balance Map Analysis
 ## Overview
 Matlab code for balance map analysis which evaluate walking balance.
-Simulation results presented at ICRA2019 were produced by the matlab functions. The conference paper can be uploaded soon.
+Simulation results presented at ICRA2019 were produced by the matlab functions. 
+The conference paper can be find at the following link
+https://www.researchgate.net/publication/332603773_Balance_Map_Analysis_as_a_Measure_of_Walking_Balance_Based_on_Pendulum-like_Leg_Movements
 
 ## Dependency
 The simulations were built in matlab 2014b.
